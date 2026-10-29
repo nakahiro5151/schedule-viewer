@@ -1,0 +1,89 @@
+{
+  "project_title": "スピーカー納品プロジェクト 仮スケジュール",
+  "customer": "お客様名",
+  "schedule_mode": "forward",
+  "delivery_date": "2026-12-21",
+  "start_date": "2026-11-09",
+  "phases": [
+    {
+      "id": 1,
+      "category": "弊社作業",
+      "name": "部品手配",
+      "weeks": 3,
+      "min_weeks": 3,
+      "color": "#4472C4",
+      "note": "1stサンプル用部品"
+    },
+    {
+      "id": 2,
+      "category": "弊社作業",
+      "name": "テスト品_組み立て",
+      "weeks": 2,
+      "min_weeks": 2,
+      "color": "#4472C4",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "category": "弊社作業",
+      "name": "スピーカー評価",
+      "weeks": 2,
+      "min_weeks": 2,
+      "color": "#70AD47",
+      "note": "音響特性・品質評価"
+    },
+    {
+      "id": 4,
+      "category": "弊社作業",
+      "name": "調整(必要に応じて)",
+      "weeks": 2,
+      "min_weeks": 2,
+      "color": "#70AD47",
+      "note": "特性調整・修正対応"
+    },
+    {
+      "id": 5,
+      "category": "弊社作業",
+      "name": "量産サンプル 部品手配",
+      "weeks": 3,
+      "min_weeks": 3,
+      "color": "#ED7D31",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "category": "弊社作業",
+      "name": "量産サンプル 組み立て",
+      "weeks": 2,
+      "min_weeks": 2,
+      "color": "#ED7D31",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "category": "納品",
+      "name": "納品（スピーカー引き渡し）",
+      "weeks": 2,
+      "min_weeks": 2,
+      "color": "#C00000",
+      "note": "12月中旬 顧客納品"
+    }
+  ],
+  "milestones": [
+    {
+      "name": "設置工事開始",
+      "date": "2027-01-15",
+      "color": "#7030A0"
+    },
+    {
+      "name": "調整開始",
+      "date": "2027-02-01",
+      "color": "#7030A0"
+    },
+    {
+      "name": "納品・引き渡し（顧客側）",
+      "date": "2027-02-25",
+      "color": "#C00000"
+    }
+  ]
+}
